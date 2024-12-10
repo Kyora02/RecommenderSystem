@@ -1,0 +1,42 @@
+Food,Category,Serving Size (g),Calories,Protein (g),Fats (g),Vitamin A (IU),Vitamin C (mg),Vitamin D (IU),Vitamin E (mg),Vitamin B1 (mg),Vitamin B2 (mg)
+Chicken Breast,Meat,100,165,31,3.6,0,0,0,0,7,6
+Salmon,Fish,100,206,22,12,4,0,91,1,5,22
+Brocoli,Vegetables,100,55,4,0.6,12,135,0,4,8,7
+Carrots,Vegetables,100,41,0.9,0.2,334,9,0,2,4,3
+Apples,Fruits,100,52,0.3,0.2,1,8,0,1,1,1
+Eggs,Dairy,100,155,13,11,10,0,11,5,5,15
+Spinach,Vegetables,100,23,2.9,0.4,56,47,0,13,4,13
+Beef,Meat,100,250,26,17,0,0,1,0,8,12
+Oranges,Fruits,100,47,0.9,0.1,4,89,0,1,2,3
+Banana,Fruits,100,89,1.1,0.3,1,15,0,1,3,5
+Almonds,Seeds,100,575,21,50,0,0,0,175,16,60
+Yogurt,Dairy,100,59,10,0.4,0,1,10,0,8,5
+Sweet Potato,Vegetables,100,86,1.6,0.1,283,4,0,2,7,3
+Quinoa,Grains,100,120,4.1,1.9,0,0,0,2,12,9
+Oats,Grains,100,389,16.9,6.9,0,0,0,30,14,12
+Potatoes,Vegetables,100,77,2,0.1,0,32,0,0,8,6
+Tofu,Plant-based,100,76,25.8,4.8,0,0,6,6,6,8
+Cucumber,Vegetables,100,16,0.7,0.1,2,14,0,1,2,2
+Bell Pepper,Vegetables,100,31,1,0.3,12,213,0,3,5,6
+Zucchini,Vegetables,100,17,1.2,0.3,4,28,0,4,4,4
+Grapes,Fruits,100,69,0.7,0.2,1,4,0,1,1,1
+Kiwi,Fruits,100,61,1.1,0.5,2,154,0,7,3,3
+Pineapple,Fruits,100,50,0.5,0.1,1,79,0,1,2,2
+Mango,Fruits,100,60,0.8,0.4,21,60,0,2,4,3
+Cherries,Fruits,100,63,1.1,0.2,1,16,0,2,3,3
+Peas,Vegetables,100,81,5.4,0.4,2,67,0,2,15,14
+Cabbage,Vegetables,100,25,1.3,0.1,3,54,0,2,3,4
+Radishes,Vegetables,100,16,0.7,0.1,0,18,0,1,2,2
+Brown Rice,Grains,100,111,2.6,0.9,0,0,0,8,4,6
+White Rice,Grains,100,130,2.7,0.3,0,0,0,0,4,4
+Barley,Grains,100,352,12.5,2.3,0,0,0,20,17,10
+Shrimp,Meat,100,85,24,1,1,0,0,5,5,5
+Cauliflower,Vegetables,100,2,2,0.3,0,77,0,1,3,4
+Avocado,Fruits,100,160,2,15,7,16,0,10,6,10
+Peanut Butter,Seeds,100,588,25,50,0,0,0,17,12,15
+Milk,Dairy,100,61,3.2,3.3,5,0,1,0,2,8
+Blueberries,Fruits,100,553,0.8,0.2,0,0,4.44,10.52,0.91,0.1
+Soybeans,Seeds,100,72,18,45,2,0,36.94,17.64,1.81,1.34
+Watermelon,Fruits,100,357,13,3.2,0,0,29.18,17.91,1.83,1.05
+Guava,Fruits,100,342,20.7,21,0,0,6.7,11.59,1.6,0.09
+Peach ,Fruits,100,202,2,2.6,154,0,48.86,7.89,0.11,0.02
